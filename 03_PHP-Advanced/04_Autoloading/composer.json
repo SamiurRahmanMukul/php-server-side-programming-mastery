@@ -1,0 +1,17 @@
+{
+  "name": "srmuk/14-autoloading",
+  "autoload": {
+    "psr-4": {
+      "Srmuk\\14Autoloading\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Mukul",
+      "email": "sr.mukul9090@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.3"
+  }
+}
