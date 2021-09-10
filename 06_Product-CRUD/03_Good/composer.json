@@ -1,0 +1,15 @@
+{
+  "name": "srmuk/3-good",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "Mukul",
+      "email": "sr.mukul9090@gmail.com"
+    }
+  ],
+  "require": {}
+}
